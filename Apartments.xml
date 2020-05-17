@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bungalows>
+	<Apartment id="0001"> 
+		<Name>Bay View</Name>
+		<Price>350</Price>
+		<startDate>150419</startDate>
+		<endDate>300419</endDate>
+		<MaxGuests>6</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+	</Apartment>
+	<Apartment id="0002">
+		<Name>Meadow Views</Name>
+		<Price>400</Price>
+		<startDate>240519</startDate>
+		<endDate>310519</endDate>
+		<MaxGuests>4</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>2</Bathrooms>
+	</Apartment>
+	<Apartment id="0003">
+		<Name>Garden Meadows</Name>
+		<Price>430</Price>
+		<startDate>260519</startDate>
+		<endDate>020619</endDate>
+		<MaxGuests>6</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>3</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+	</Apartment>
+		<Apartment id="0004">
+		<Name>Parkland Way</Name>
+		<Price>400</Price>
+		<startDate>010619</startDate>
+		<endDate>080619</endDate>
+		<MaxGuests>2</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>1</Bedrooms>
+		<Bathrooms>1</Bathrooms>
+	</Apartment>
+		<Apartment id="0005">
+		<Name>Swallow Street</Name>
+		<Price>500</Price>
+		<startDate>050619</startDate>
+		<endDate>190619</endDate>
+		<MaxGuests>4</MaxGuests>
+		<LivingRoom>No</LivingRoom>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>2</Bathrooms>
+	</Apartment>
+		<Apartment id="0006">
+		<Name>Swan Lakes</Name>
+		<Price>600</Price>
+		<startDate>060619</startDate>
+		<endDate>200619</endDate>
+		<MaxGuests>8</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+	</Apartment>
+		<Apartment id="0007">
+		<Name>Church Way</Name>
+		<Price>300</Price>
+		<startDate>080619</startDate>
+		<endDate>150619</endDate>
+		<MaxGuests>4</MaxGuests>
+		<LivingRoom>No</LivingRoom>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>1</Bathrooms>
+	</Apartment>
+		<Apartment id="0008">
+		<Name>Sunset Meadows</Name>
+		<Price>800</Price>
+		<startDate>150619</startDate>
+		<endDate>290619</endDate>
+		<MaxGuests>8</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>4</Bathrooms>
+	</Apartment>
+		<Apartment id="0009">
+		<Name>Evening Light</Name>
+		<Price>600</Price>
+		<startDate>010719</startDate>
+		<endDate>150719</endDate>
+		<MaxGuests>6</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>3</Bedrooms>
+		<Bathrooms>3</Bathrooms>
+	</Apartment>
+		<Apartment id="0010">
+		<Name>Morning Views</Name>
+		<Price>420</Price>
+		<startDate>060719</startDate>
+		<endDate>061419</endDate>
+		<MaxGuests>4</MaxGuests>
+		<LivingRoom>Yes</LivingRoom>
+		<Bedrooms>2</Bedrooms>
+		<Bathrooms>1</Bathrooms>
+	</Apartment>
+</Bungalows>

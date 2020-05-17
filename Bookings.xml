@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookings>
+<clientbooking ID="102">
+<apartmentname>The Meadows</apartmentname>
+<firstname>John</firstname>
+<lastname>Smith</lastname>
+<numberguests>4</numberguests>
+<startdate>14042019</startdate
+><enddate>21042019</enddate><catering>No</catering>
+</clientbooking>
+</bookings>
